@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> 
 <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>MeatKing</title>
+    <title>Polenta</title>
 
     <!-- meta -->
     <meta charset="utf-8">
